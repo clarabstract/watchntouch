@@ -40,7 +40,7 @@ Good luck!
          "Programming Language :: Python :: 2",
          "Programming Language :: Python :: 2.6",
          "Programming Language :: Python :: 2.7",
-         "License :: OSI Approved :: MIT License",
+         "License :: OSI Approved :: BSD License",
          "Environment :: Console",
          "Operating System :: POSIX",
          "Operating System :: MacOS :: MacOS X",
