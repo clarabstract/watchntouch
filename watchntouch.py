@@ -72,7 +72,7 @@ class NativeHandler(events.FileSystemEventHandler):
 def run():
     parser = argparse.ArgumentParser(
         description='Poll a directory for changes and re-touch changed paths '
-            'so that inotify-incapable mounts (like CIFS) recieve inotify '
+            'so that inotify-incapable mounts (like CIFS) receive inotify '
             'events anyway.')
 
     parser.add_argument('-i', '--polling-interval',
