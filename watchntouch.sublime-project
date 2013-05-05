@@ -1,0 +1,17 @@
+{
+	"folders":
+	[
+		{
+			"path": "/C/Users/Bike/Projects/watchntouch"
+		}
+	],
+	"settings":
+	{
+		"default_line_ending": "unix",
+		"draw_white_space": "all",
+		"rulers": 79,
+		"tab_size": 4,
+		"translate_tabs_to_spaces": true,
+		"trim_trailing_white_space_on_save": true
+	}
+}
